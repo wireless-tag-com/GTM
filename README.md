@@ -6,15 +6,15 @@ Since our establishment in 2013, our passionate team has been hard at work in ou
 
 Our Dev Kit is distinctively unique. We, as tech enthusiasts, can now effortlessly integrate advanced AI into our DIY projects. By supporting open-source ecosystems like Espressif IDF and Arduino-IDE, we ensure it's accessible to all, regardless of skill level.
 
-![img](GTM\1.png)
+![img](GTM/1.png)
 
 Versatility is at its core. We designed it for diverse applications we care about, from smartening up our homes to powering robotics and instrumentation. With integration of leading AI models (ChatGPT/Gemini/Claude), intelligent interactions are within reach. The carefully selected hardware, such as the 3.5-inch display and sensors, boosts user experience.
 
-![img](GTM\2.png)
+![img](GTM/2.png)
 
 The plug-and-play design and Mikro BUS compatibility guarantee easy use and expansion. We eliminated the hassles of complex setups. Whether building a smart assistant or an IoT device, our kit offers the necessary tools and flexibility.
 
-![img](GTM\3.png)
+![img](GTM/3.png)
 
 To offer you a more vivid and detailed look at the capabilities of our ESP32 Agent Dev Kit, we have prepared a product video. You can access this engaging visual demonstration at https://youtu.be/kihxymNve0c. It showcases the seamless operation, advanced features, and practical applications of our kit, allowing you to better understand how it can revolutionize your DIY projects.
 
