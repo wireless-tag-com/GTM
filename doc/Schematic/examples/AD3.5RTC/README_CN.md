@@ -1,5 +1,7 @@
 # Agent Dev Kit DEMO
 
+[English](./readme.md)
+
 ## 一、软件环境准备
 
 ### 1.1 IDF 版本

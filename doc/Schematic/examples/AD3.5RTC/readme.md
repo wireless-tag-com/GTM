@@ -1,5 +1,7 @@
 # Agent Dev Kit DEMO
 
+[Chinese](./README_CN.md)
+
 ## 1. Software Environment Preparation
 
 ### 11.1 IDF Version
