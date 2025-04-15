@@ -71,7 +71,7 @@ void app_main(void)
     audio_board_handle_t board_handle = audio_board_init();                                         // 初始化编码芯片
     audio_hal_ctrl_codec(board_handle->audio_hal, AUDIO_HAL_CODEC_MODE_BOTH, AUDIO_HAL_CTRL_START); // 启动编码芯片
 
-    audio_hal_set_volume(board_handle->audio_hal, 40);
+    audio_hal_set_volume(board_handle->audio_hal, 90);
     ESP_LOGI(TAG, "audio_board & audio_board_key init");
 
     gpio_install_isr_service(ESP_INTR_FLAG_SHARED);

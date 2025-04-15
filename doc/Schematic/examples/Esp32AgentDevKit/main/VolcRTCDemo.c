@@ -127,7 +127,7 @@ static void byte_rtc_task(void *pvParameters)
 	if (s_wifi_event_group != NULL)
 		xEventGroupSetBits(s_wifi_event_group, BIT1);
 	if (ui_Label2 != NULL)
-		lv_label_set_text(ui_Label2, "挂通");
+		lv_label_set_text(ui_Label2, "挂断");
 
 	do
 	{

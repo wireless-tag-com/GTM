@@ -1,0 +1,12 @@
+info: INFO: Symbol I2S_SUPPRESS_DEPRECATE_WARN defined in multiple locations (see below). Please check if this is a correct behavior or a random name match:
+    /home/quanshui/GTM/GTM/doc/Schematic/examples/Esp32AgentDevKit/qmsd-esp32-bsp/components/qmsd_board/Kconfig.projbuild:135
+    /home/quanshui/esp/esp-idf/idf53/components/driver/Kconfig:113
+info: INFO: Symbol ADC_SUPPRESS_DEPRECATE_WARN defined in multiple locations (see below). Please check if this is a correct behavior or a random name match:
+    /home/quanshui/GTM/GTM/doc/Schematic/examples/Esp32AgentDevKit/qmsd-esp32-bsp/components/qmsd_board/Kconfig.projbuild:138
+    /home/quanshui/esp/esp-idf/idf53/components/driver/Kconfig:17
+info: INFO: Symbol PCNT_SUPPRESS_DEPRECATE_WARN defined in multiple locations (see below). Please check if this is a correct behavior or a random name match:
+    /home/quanshui/esp/esp-idf/idf53/components/driver/Kconfig:124
+    /home/quanshui/GTM/GTM/doc/Schematic/examples/Esp32AgentDevKit/qmsd-esp32-bsp/components/qmsd_board/Kconfig.projbuild:141
+info: INFO: Symbol RMT_SUPPRESS_DEPRECATE_WARN defined in multiple locations (see below). Please check if this is a correct behavior or a random name match:
+    /home/quanshui/GTM/GTM/doc/Schematic/examples/Esp32AgentDevKit/qmsd-esp32-bsp/components/qmsd_board/Kconfig.projbuild:144
+    /home/quanshui/esp/esp-idf/idf53/components/driver/Kconfig:102
